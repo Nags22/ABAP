@@ -1,0 +1,12 @@
+CLASS my_class DEFINITION.
+PUBLIC:
+      CONSTRUCTOR().
+
+PRIVATE: 
+         TYPES: Zspfli type standard table of SPFLI.
+         ITAB_SPFLI like ZSPFLI.
+
+        
+          
+
+ENDCLASS.
